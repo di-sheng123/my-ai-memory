@@ -1,6 +1,6 @@
 # 涤生的 AI 共享档案 🧠
 
-> 这是我的个人 AI 档案仓库，让所有 AI（Grokbot / Kimi / GPT / 智谱 / DeepSeek / Codex 等）都能快速认识我
+> > 这是我的个人 AI 档案仓库，让所有 AI（Grokbot / Kimi / GPT / 智谱 / DeepSeek / Codex 等）都能快速认识我，无需每次重复介绍。
 ## 📚 档案结构
 
 | 文件 | 内容 |
