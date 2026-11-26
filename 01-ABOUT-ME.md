@@ -59,10 +59,12 @@
 
 ---
 
-## 🤖 我的 AI 工具阵容
+## 🤖 我的 AI 工具
 
-- **日常聚合入口**：Grokbot
-  - **主力模型**：Kimi、GPT
-  - **辅助模型**：智谱、DeepSeek
-- **专项开发工具**：Codex（负责搭建 AI 视频自动化工厂）
-- **独立工具**：Antigravity / Gemini（单独使用，不打乱原有阵容）
+- Grokbot
+- Gemini
+- GPT
+- 反重力（Antigravity）
+- Kimi
+- 智谱
+- DeepSeek
